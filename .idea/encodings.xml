@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-spring-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mao-shop-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register-center-eureka" charset="UTF-8" />
+  </component>
+</project>
