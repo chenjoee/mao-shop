@@ -31,8 +31,10 @@
         <druid.spring.boot.starter.version>1.1.10</druid.spring.boot.starter.version>
         <mybatis-spring-boot-starter.version>2.1.1</mybatis-spring-boot-starter.version>
         <mybatis-plus-boot-starter.version>3.3.2</mybatis-plus-boot-starter.version>
+        <mybatis-plus-boot-starter-gen.version>3.3.2</mybatis-plus-boot-starter-gen.version>
         <seata.version>1.2.0</seata.version>
         <swagger.version>2.9.2</swagger.version>
+
     </properties>
 
 
@@ -121,7 +123,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>3.5.4.RELEASE</version>
                 <configuration>
                     <fork>true</fork>
                     <addResources>true</addResources>

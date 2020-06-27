@@ -1,4 +1,4 @@
-package io.github.chenjoee.core;
+package io.github.chenjoee.core.module;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

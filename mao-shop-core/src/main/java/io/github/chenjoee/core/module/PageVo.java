@@ -6,7 +6,7 @@
  * 版权所有，侵权必究！
  */
 
-package io.github.chenjoee.core;
+package io.github.chenjoee.core.module;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import io.swagger.annotations.ApiModel;
