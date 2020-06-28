@@ -7,11 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pay-ms" />
+        <module name="product-ms-interface" />
         <module name="order-ms" />
         <module name="register-center-eureka" />
-        <module name="mao-shop-core" />
-        <module name="product-ms" />
         <module name="gateway-spring-gateway" />
+        <module name="product-ms" />
+        <module name="mao-shop-core" />
       </profile>
     </annotationProcessing>
   </component>

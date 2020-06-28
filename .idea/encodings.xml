@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/order-ms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pay-ms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product-ms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-ms-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/register-center-eureka" charset="UTF-8" />
   </component>
 </project>

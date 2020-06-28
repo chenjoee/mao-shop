@@ -1,4 +1,12 @@
-#### 环境准备
+####　１　介绍
+
+使用springcloud（eureka + gateway + open-feign + hystrix + sleuth + config) 搭建一个商城微服务项目(后台)
+
+将用到： docker + nginx + redis + ES + mysql + mybatis-plus +  rocketmq + seata + xxl-job，欢迎加入 
+
+email:  Y2hlbmpvZWVAaG90bWFpbC5jb20=
+
+#### ２　环境准备
 
 **Docker安装 Mysql 5.7**
 
@@ -9,7 +17,7 @@
 docker run  -p 3306:3306 --name mysql57 -e MYSQL_ROOT_PASSWORD=root -d mysql:5.7.30
 ```
 
-![image-20200618231631212](./pic/image-20200618231631212.png)
+![image-20200618231631212](./doc/pic/image-20200618231631212.png)
 
 
 
@@ -24,7 +32,9 @@ docker TLS handshake timeout.
 
 
 
-#### PMS数据库设计
+#### ３　数据库设计
+
+**3.1 PMS** **商品管理数据库**
 
 **pms_attr**（商品属性）
 
@@ -102,7 +112,7 @@ docker TLS handshake timeout.
 | attr_sort  | tinyint4   | 拍下                                      |
 | quick_show | tinyint4   | 是否快速展示， 如下图在商品介绍中展示规格 |
 
-![image-20200626103106576](./pic/image-20200626103106576.png)
+![image-20200626103106576](./doc/pic/image-20200626103106576.png)
 
 
 
@@ -145,9 +155,9 @@ docker TLS handshake timeout.
 
 
 
-**pms_spu_commont**(评论)
+**pms_sku_commont**(评论)
 
-**pms_spu_commont_replay**（评论回复）
+**pms_sku_commont_replay**（评论回复）
 
 
 

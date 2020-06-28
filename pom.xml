@@ -15,6 +15,7 @@
         <module>mao-shop-core</module>
         <module>pay-ms</module>
         <module>order-ms</module>
+        <module>product-ms-interface</module>
     </modules>
 
     <properties>

@@ -2,88 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbe3d7b9-cda3-4fbc-8c54-1d0fdcbcf4f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/utils/CodeGenUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/AttrAttrgroupRelationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/AttrController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/AttrGroupController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/BrandController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SkuAttrValueController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SkuImageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SkuInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SpuAttrValueController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SpuImageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SpuInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/SpuInfoDescController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/Attr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/AttrAttrgroupRelation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/AttrGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SkuAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SkuImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SkuInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SpuAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SpuImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SpuInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/SpuInfoDesc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrAttrgroupRelationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrGroupMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/BrandMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SkuAttrValueMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SkuImageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SkuInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SpuAttrValueMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SpuImageMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SpuInfoDescMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/SpuInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/IAttrAttrgroupRelationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/IAttrGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/IAttrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/IBrandService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ICategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISkuAttrValueService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISkuImageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISkuInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISpuAttrValueService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISpuImageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISpuInfoDescService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISpuInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/AttrAttrgroupRelationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/AttrGroupServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/AttrServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/BrandServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SkuAttrValueServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SkuImageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SkuInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SpuAttrValueServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SpuImageServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SpuInfoDescServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SpuInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/AttrAttrgroupRelationMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/AttrGroupMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/AttrMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/BrandMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SkuAttrValueMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SkuImageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SkuInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SpuAttrValueMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SpuImageMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SpuInfoDescMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms/src/main/resources/mapper/SpuInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-ms-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-ms-interface/product-ms-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mao-shop-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/PageVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/module/PageVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/QueryCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/module/QueryCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/RespData.java" beforeDir="false" afterPath="$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/module/RespData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/target/classes/io/github/chenjoee/core/PageVo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/target/classes/io/github/chenjoee/core/QueryCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/target/classes/io/github/chenjoee/core/RespData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -94,6 +18,7 @@
     <ignored path="$PROJECT_DIR$/mao-shop-core/target/" />
     <ignored path="$PROJECT_DIR$/pay-ms/target/" />
     <ignored path="$PROJECT_DIR$/order-ms/target/" />
+    <ignored path="$PROJECT_DIR$/product-ms-interface/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,25 +31,105 @@
     </execution>
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
+            <state relative-caret-position="126">
               <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="378">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/AttrAttrgroupRelation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISkuAttrValueService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/PMSApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms-interface/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="63">
+                <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms/src/main/resources/mapper/AttrAttrgroupRelationMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/IAttrGroupService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SkuAttrValueServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -174,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrAttrgroupRelationMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrMapper.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -185,8 +191,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="80" />
-    <option name="y" value="10" />
+    <option name="x" value="27" />
+    <option name="y" value="74" />
     <option name="width" value="1313" />
     <option name="height" value="744" />
   </component>
@@ -206,101 +212,14 @@
             <path>
               <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pms" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="product-ms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="register-center-eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="register-center-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="register-center-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="register-center-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mao-shop" type="462c0819:PsiDirectoryNode" />
-              <item name="register-center-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="regitser" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mao-shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="product-ms-interface" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,34 +329,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593161392348</updated>
-      <workItem from="1593161395957" duration="9399000" />
+      <workItem from="1593161395957" duration="10204000" />
+      <workItem from="1593350451917" duration="1170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9399000" />
+    <option name="totallyTimeSpent" value="11374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23279649" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22327965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.42642644" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32882884" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43093094" />
@@ -445,16 +356,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32882884" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.42642644" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,30 +536,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/PmsAttrController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/PmsAttr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/PMSApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/PmsAttrController.java" />
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/PmsAttr.java" />
     <entry file="file://$PROJECT_DIR$/mao-shop-core/src/main/java/io/github/chenjoee/core/utils/CodeGenUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -655,24 +553,37 @@
     <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/controller/AttrController.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/product-ms/src/main/resources/mapper/AttrAttrgroupRelationMapper.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrAttrgroupRelationMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrGroupMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/CategoryMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/BrandMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/SpuInfoMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/service/IAttrAttrgroupRelationService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/service/IAttrGroupService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/service/impl/AttrAttrgroupRelationServiceImpl.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        <state relative-caret-position="126">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrAttrgroupRelationMapper.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="378">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrGroupMapper.java">
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/entity/AttrAttrgroupRelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/ISkuAttrValueService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -682,72 +593,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2.jar!/com/baomidou/mybatisplus/core/mapper/BaseMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/AttrMapper.java">
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/resources/mapper/AttrAttrgroupRelationMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/CategoryMapper.java">
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/IAttrGroupService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
+        <state relative-caret-position="252">
           <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/BrandMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/mapper/SpuInfoMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/service/IAttrAttrgroupRelationService.java">
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/service/impl/SkuAttrValueServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/PMSApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/service/IAttrGroupService.java">
+    <entry file="file://$PROJECT_DIR$/product-ms-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="231">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/chenjoee/pms/service/impl/AttrAttrgroupRelationServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="63">
+            <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
