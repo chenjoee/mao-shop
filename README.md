@@ -1,10 +1,10 @@
 #### １  介绍
 
-使用springcloud（eureka + gateway + open-feign + hystrix + sleuth + config) 搭建一个商城微服务项目(后台)
+使用**springcloud（eureka + gateway + open-feign + hystrix + sleuth + config)** 搭建一个商城微服务项目(后台)
 
-将用到： docker + nginx + redis + ES + mysql + mybatis-plus +  rocketmq + seata + xxl-job，欢迎加入 
+将用到： **docker + nginx + redis + ES + mysql + mybatis-plus +  rocketmq + seata + xxl-job**，欢迎加入 
 
-email:  Y2hlbmpvZWVAaG90bWFpbC5jb20=
+email:  **Y2hlbmpvZWVAaG90bWFpbC5jb20=**
 
 #### ２　环境准备
 
