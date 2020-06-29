@@ -1,7 +1,7 @@
 package io.github.chenjoee.pms.mapper;
 
-import io.github.chenjoee.pms.entity.AttrGroup;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import io.github.chenjoee.pms.entity.AttrGroup;
 
 /**
  * <p>

@@ -1,13 +1,14 @@
 package io.github.chenjoee.pms.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
-import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
+import java.io.Serializable;
+
 /**
  * <p>
- * 品牌
+ * spu图片
  * </p>
  *
  * @author jobob
@@ -15,37 +16,30 @@ import lombok.EqualsAndHashCode;
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
-@TableName("pms_brand")
-public class Brand implements Serializable {
+@TableName("pms_spu_image")
+public class SpuImage implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
     /**
-     * 名称
+     * spu_id
      */
-    private String name;
+    private Long spuId;
 
     /**
-     * log
+     * 图片地址
      */
-    private String logo;
+    private String imgUrl;
 
     /**
-     * 描述
+     * 排序
      */
-    private String desc;
+    private Integer imgSort;
 
     /**
-     * 是否展示
+     * 是否默认图片
      */
-    private Integer showStatus;
-
-    /**
-     * 首字母
-     */
-    private String firstLetter;
-
-    private String sort;
+    private Boolean defaultImg;
 
 
 }

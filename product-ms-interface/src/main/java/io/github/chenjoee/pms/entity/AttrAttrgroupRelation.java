@@ -1,13 +1,14 @@
 package io.github.chenjoee.pms.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
-import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
+import java.io.Serializable;
+
 /**
  * <p>
- * sku属性值
+ * 属性和属性分组关联表
  * </p>
  *
  * @author jobob
@@ -15,23 +16,25 @@ import lombok.EqualsAndHashCode;
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
-@TableName("pms_sku_attr_value")
-public class SkuAttrValue implements Serializable {
+@TableName("pms_attr_attrgroup_relation")
+public class AttrAttrgroupRelation implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
-    private Long skuId;
-
+    /**
+     * 属性id
+     */
     private Long attrId;
 
     /**
-     * 冗余字段
+     * 属性分组id
      */
-    private String attrName;
+    private Long attrgroupId;
 
-    private String attrValue;
-
-    private Integer attrSort;
+    /**
+     * 排序
+     */
+    private String attrSort;
 
 
 }
