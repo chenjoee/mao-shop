@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbe3d7b9-cda3-4fbc-8c54-1d0fdcbcf4f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/Attr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/AttrAttrgroupRelation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/AttrGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/SkuAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/SkuImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/SpuAttrValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/SpuImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/SpuInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenjoee/pms/entity/SpuInfoDesc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mao-shop-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mao-shop-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-ms-interface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/Attr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/AttrAttrgroupRelation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/AttrGroup.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/Brand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/Category.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SkuAttrValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SkuImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SkuInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SpuAttrValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SpuImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SpuInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms-interface/src/main/java/io/github/chenloee/pms/entity/SpuInfoDesc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-ms/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrAttrgroupRelationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrAttrgroupRelationMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrGroupMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-ms/src/main/java/io/github/chenjoee/pms/mapper/AttrGroupMapper.java" afterDir="false" />
-    </list>
+    <list default="true" id="fbe3d7b9-cda3-4fbc-8c54-1d0fdcbcf4f7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/product-ms/target/" />
@@ -386,6 +356,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -480,17 +451,17 @@
       <option name="presentableId" value="Default" />
       <updated>1593161392348</updated>
       <workItem from="1593161395957" duration="10204000" />
-      <workItem from="1593350451917" duration="5843000" />
+      <workItem from="1593350451917" duration="5880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16047000" />
+    <option name="totallyTimeSpent" value="16084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="24" width="1313" height="744" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24110672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24110672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -500,13 +471,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37055016" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37055016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32847896" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32882884" />
